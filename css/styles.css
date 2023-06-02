@@ -1,0 +1,63 @@
+#titulo {
+    background-color: #C4C4C4;
+    color: #005677;
+    text-align: center;
+    margin: 0;
+    font-size: 35px;
+  }
+  *{font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+  
+  h3 {
+    background:  #C4C4C4;
+    color: #005677;
+    font-size: 30px;
+
+  }
+.div-img {
+  background: #E6E6E6;
+  display: flex;
+  justify-content: center;
+}
+
+  .nombre{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+  }
+  .nombre-completo{
+    margin: 0;
+    display: inline; 
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+  }
+
+.subrayado-negrita1{
+  font-weight: bold;
+  margin-left: 5px;
+  font-size: 20px;
+}
+
+.bubrayado-negrita2{
+  font-weight: bold;
+  margin-left: 5px;
+  font-size: 20px;
+}
+
+.pie-pagina {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  padding: 5px 10px;
+  background-color: #005677;
+  color:#FFFFFF;
+  font-weight: bold;
+}
+
+.bat{
+  font-size: 20px;
+}
